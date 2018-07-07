@@ -1,0 +1,11 @@
+{
+  "name": "nodetut",
+  "version": "1.0.0",
+  "description": "coursera course examples",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sagar jaspal",
+  "license": "ISC"
+}
